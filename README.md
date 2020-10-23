@@ -1,5 +1,5 @@
 ## Demo
-<a href="https://imgflip.com/gif/4jg7id">via Imgflip</a>\
+<img src="screenshots/ezgif.com-gif-maker.gif">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
